@@ -1,7 +1,15 @@
 ### *Jmeter - HW_1 Сделать сценарий с перечисленными эндпоинтами*
 _________________________
-Дать нагрузку на (50)[https://github.com/EvgeneyKEO/JMETER/blob/main/Summary_report_Users_50.csv], (250)[https://github.com/EvgeneyKEO/JMETER/blob/16fe632011b53684c49c048eb46800823581604d/Summary_report_Users_250.csv], (500)[https://github.com/EvgeneyKEO/JMETER/blob/16fe632011b53684c49c048eb46800823581604d/Summary_report_Users_500.csv] потоков.
-Результаты прогонов выг1рузить в CSV.
+Дать нагрузку на:
+:one: 50
+:two: 250
+:three: 500 потоков.
+
+Результаты прогонов выгрузить в CSV:
+1) [Результат на 50 потоков](https://github.com/EvgeneyKEO/JMETER/blob/main/Summary_report_Users_50.csv);
+2) [Результат на 250 потоков](https://github.com/EvgeneyKEO/JMETER/blob/16fe632011b53684c49c048eb46800823581604d/Summary_report_Users_250.csv);
+3) [Результат на 500 потоков](https://github.com/EvgeneyKEO/JMETER/blob/16fe632011b53684c49c048eb46800823581604d/Summary_report_Users_500.csv).
+
 Настройки Jmeter, файл .jmx выгружаем на гит.
 _________________________
 
