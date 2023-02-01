@@ -7,8 +7,8 @@ _________________________
 2) [Результат на 250 потоков](https://github.com/EvgeneyKEO/JMETER/blob/16fe632011b53684c49c048eb46800823581604d/Summary_report_Users_250.csv);
 3) [Результат на 500 потоков](https://github.com/EvgeneyKEO/JMETER/blob/16fe632011b53684c49c048eb46800823581604d/Summary_report_Users_500.csv).
 
-[Настройки Jmeter, файл .jmx выгружаем на гит.](https://github.com/EvgeneyKEO/JMETER/blob/735632b59e4fca747b4ce8912a7f925437792f18/HW%20tests%20(Number%20of%20threads%20-%2050,%20250,%20500.jmx)
-_________________________
+Настройки Jmeter, файл .jmx выгружаем на гит
+_______________________
 
 1) http://162.55.220.72:5005/get_method
 ```
